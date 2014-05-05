@@ -11,7 +11,7 @@ var fbmap = {
   currentLatLng: null,
   markers: [], //Keep track of currently displayed markers.
   searchUrl: 'https://www.googleapis.com/freebase/v1/search',
-  topicUrl: 'https://www.googleapis.com/freebase/v1/topic/',
+  topicUrl: 'https://www.googleapis.com/freebase/v1/topic',
   category: '/symbols/namesake',
   locString: '/location/location/geolocation'
 };
